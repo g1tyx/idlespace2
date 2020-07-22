@@ -1,0 +1,43 @@
+21/07/2020
+-   Warps notifications options
+-   Added info modals
+-   Fixed 100% civil work after prestige
+
+20/07/2020
+-   Eta fixed
+-   Added search time in search screen
+
+19/07/2020
+-   new researches
+-   info tab
+-   optimizations
+
+18/07/2020
+-   new ship modules "Tractor Beam" and "Communications Jammer"
+-   fixed battle threat
+
+14/07/2020
+-   fixed department prestige
+
+10/07/2020
+-   more acceleration
+
+09/07/2020
+-   fixed ship priority
+-   fixed number formatting
+-   fixed nuke
+
+08/07/2020
+-   fixed mod page
+-   fixed ship info on design page
+-   fixed css, nuke specialist limit and Production Department bonus
+-   fixed threat
+-   buff save
+-   some replacements to nuke, space stations, drones
+
+07/07/2020
+-   fixed/implemented nuke
+-   new card: Peacefully Efficiency
+-   space stations auto buyer
+-   rebalanced nuke and components
+-   added changelog
