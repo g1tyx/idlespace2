@@ -159,7 +159,7 @@ var cnItems = {
     'Your next experience multiplier will be': '你下一经验加成会',
     'Your will gain': '你会获得',
     'Reset everything except "Exp Shop" and ship design. Ship design with locked module becomes blueprint. You will be able to defeat enemies again and gain Experience. The "experience multiplier" multiply the effectiveness of experience spent. "experience multiplier" is based on the max level of defeated enemy.': '重置除“经验商店”和运送设计之外的所有内容。 锁定模块的船舶设计成为蓝图。 您将能够再次击败敌人并获得经验。 “经验乘数”乘以经验的有效性。 “经验倍增”是基于击败敌人的最大等级。',
-    '': '',
+    'Game Saved': '游戏已保存',
     '': '',
     '': '',
     '': '',
