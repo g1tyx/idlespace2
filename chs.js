@@ -335,7 +335,7 @@ var cnItems = {
     'Status': '状态',
     'Strength': '力量',
     'Technology ': '技术 ',
-    'To do': '要做',
+    'To do': '进行中',
     'Type': '类型',
     'Unlocked': '已解锁',
     'Worker': '工人',
