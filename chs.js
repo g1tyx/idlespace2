@@ -737,6 +737,8 @@ var cnPrefix = {
     "Cesleans Kingdom": "塞斯林王国",
     "Thofkiena Republic": "托夫基纳共和国",
     'Assembly patterns': '组装模式',
+    'Thrubbash Theocracy': '乌布巴神权政治',
+    'Xepzath Ascendancy': 'Xepzath优势',
 }
 
 //需处理的后缀
@@ -833,6 +835,8 @@ var cnRegReplace = new Map([
     [/^(.+) AM$/, '上午 $1'],
     [/^(.+) PM$/, '下午 $1'],
     [/^Space Council\n\+(.+) Habitable Space, \+(.+) Science$/, '太空委员会\+$1宜居空间，\+$2科学'],
+    [/^Aagzo Ascendancy\n\+(.+) Habitable Space, \+(.+) Science$/, '阿格佐的优势\+$1宜居空间，\+$2科学'],
+    [/^\n\+(.+) Energy District, \+(.+) Energy$/, '\+$1能量区，\+$2能量'],
     [/^(\d+) Royal points$/, '$1 皇家点数'],
     [/^Cost: (\d+) RP$/, '成本：$1 皇家点数'],
     [/^Usages: (\d+)\/$/, '用途：$1\/'],
