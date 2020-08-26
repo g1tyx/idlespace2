@@ -1,3 +1,38 @@
+25/08/2020
+-   Auto 100%
+-   Increased stats of "Reactive Armour"
+-   Reduced armour% and shield% of "Coordinator" 
+
+24/08/2020
+-   Starter pack bonus decreased from 20% to 15%
+-   Increased building prices for replicators and nuke
+-   Increased components prices of drones
+-   Increase components gain from Enemies
+-   New research "Assimilation"; +100% Components from enemies, repeatable
+-   Cargo and Assistance Drone buff
+-   Cargo and Lab info on battle screen
+-   New Cards "Kill Streak: Speed" and "Kill Streak: Resources"
+-   Fixed spells not auto casting
+-   Space Station Warp: warp decreased to "1 + level/2" from "1 + level"
+
+23/08/2020
+-   Added Anti Missiles
+-   Updated warp spell description
+
+22/08/2020
+-   Prestige info page
+-   "Mod Warp" card
+-   "Space Station Warp" card
+-   Decreased exponential grow of space station price from 1.06 to 1.04
+-   Doubled technology gain multiplier of origins
+-   Space station page display "price/space" instead of "1e12 * space/price"
+-   "Research initiative" buff from +1% per research lab to +1.5%
+
+19/08/2020
+-   Unused mods are auto assigned to higher priority in orderly fashion
+-   Fixed issues with speed and acceleration
+-   After prestige worker page point to "Miner"
+
 18/08/2020
 -   Auto modding based on priorities
 -   Number formatting after 1e4 instead 1e3
