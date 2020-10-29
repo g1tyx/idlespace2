@@ -836,7 +836,7 @@ var cnRegReplace = new Map([
     [/^(.+) PM$/, '下午 $1'],
     [/^Space Council\n\+(.+) Habitable Space, \+(.+) Science$/, '太空委员会\+$1宜居空间，\+$2科学'],
     [/^Aagzo Ascendancy\n\+(.+) Habitable Space, \+(.+) Science$/, '阿格佐的优势\+$1宜居空间，\+$2科学'],
-    [/^\n\+(.+) Energy District, \+(.+) Energy$/, '\+$1能量区，\+$2能量'],
+    [/^\n\+(.+) Energy District, \+(.+) Energy$/, '\+$1能量区，\+$2能量   '],
     [/^(\d+) Royal points$/, '$1 皇家点数'],
     [/^Cost: (\d+) RP$/, '成本：$1 皇家点数'],
     [/^Usages: (\d+)\/$/, '用途：$1\/'],
