@@ -1,3 +1,74 @@
+25/10/2020
+-   "Extreme modding" card
+-   "Better prices scaling" card
+-   "Kill Streak: auto win" card
+-   Civilian Work auto sort 
+-   Fleet auto sort
+-   Fixed save problems
+-   Fixed problems with automation (time change)
+
+24/10/2020
+-   New automation: Auto Warp (requires card)
+-   Decreased exp shop "computing regeneration" bonus from 10% to 2%
+-   Fixed save not loading in some cases
+
+18/10/2020
+-   Experience shop update
+-   "Kill Streak: Speed Card" affects acceleration
+-   Price of first megastructure is 1e15
+-   New challenge "No Exp Multiplier"
+-   Fixed multiple "Production stopped" modals at the same time
+
+11/10/2020
+-   Added queue length options for space stations and infrastructure automation
+
+10/10/2020
+-   Less overwhelming start
+-   Ui improvements
+
+5/10/2020
+-   Fixed research not unlocking after completing challenges
+-   Fixed auto origin
+
+4/10/2020
+-   Infrastructure bonus stack additive
+-   Added "Stats" page
+-   Added technology info
+-   Reduced "More velocity and acceleration" exp shop bonus from 15% to 12%
+-   Added prestige info
+
+3/10/2020
+-   New challenge: Expanding Universe
+-   Increased "More velocity and acceleration" exp shop bonus from 10% to 15%
+-   Disabled text selection
+
+28/09/2020
+-   Fix "XS only" challenge not working
+
+27/09/2020
+-   Fix space stations prices not refreshing after prestige
+-   Added 1000 options on exp shop
+-   PlayFab
+
+26/09/2020
+-   Challenges
+-   More cards
+-   Mega Computing Center bonus decreased from 30% to 20%
+-   Automation unlock at level 2
+
+12/09/2020
+-   Megastructure
+-   Warps keyboard shortcuts (options section)
+
+11/09/2020
+-   Research boost notification options
+
+5/09/2020
+-   Districts percent info
+-   Buildings max buy
+-   Fleet updater max level
+-   New notifications options
+
 3/09/2020
 -   Buy menu on top
 
