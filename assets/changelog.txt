@@ -1,3 +1,22 @@
+13/11/2020
+-   Megastructure automation card
+-   Megastructure buff: from +30% max drones to +40%
+-   Fixed date format on battle screen
+
+12/11/2020
+-   Ui Fix
+-   Large css themes
+
+11/11/2020
+-   Ui fix. Tech prestige shop on firefox.
+
+06/11/2020
+-   Angular downgrade (memory leak)
+
+31/10/2020
+-   New card "Storage"
+-   New Prestige "More Storage", misc section
+
 25/10/2020
 -   "Extreme modding" card
 -   "Better prices scaling" card
