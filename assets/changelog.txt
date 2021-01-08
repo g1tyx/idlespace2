@@ -1,3 +1,18 @@
+2/1/2021
+-   Improved Auto Fleet updater
+-   New cards: "Favourite ship modules" and "Favourite spell"
+-   Explorers specialization
+
+20/12/2020
+-   Auto Prestige update
+-   New ship module: cyborgizer (Modders specialization)
+
+8/12/2020
+-   More researches
+-   More ship modules
+-   Balancement: higher enemies ship level
+-   2 Specialization
+
 13/11/2020
 -   Megastructure automation card
 -   Megastructure buff: from +30% max drones to +40%
