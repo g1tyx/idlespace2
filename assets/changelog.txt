@@ -1,0 +1,315 @@
+01/05/2021
+-   Fixed faction achievements
+
+10/04/2021
+-   Added challenge: Extreme resistance
+-   Added anti damage-reduction weapons
+-   Improved Automation page UI 
+
+05/04/2021
+-   Added achievements
+-   Added new prestiges: drone quantity, +1 researches, +1 fleet capacity
+-   Added Double Attack card
+-   Added Space station scaling price cards
+-   Reduced "Increase technology gain" from 50% to 20%
+-   Reduced "Drones production prestige" from 10% to 5%
+-   Increased "Better Space Stations" from 20% to 50%
+-   Fixed PlayFab saving before save download
+
+27/3/2021
+-   Fixed exp shop considering the number of items purchased
+-   Fixed metallurgist building leading to factory
+
+18/2/2021
+-   Fixed memory leak
+
+12/2/2021
+-   Fixed fleet list ui
+
+22/1/2021
+-   Fixed negative numbers in Exp Shop
+-   Unit page update
+
+12/1/2021
+-   Fixed tutorial challenge
+
+11/1/2021
+-   Fleet updater fix and allow downgrade
+-   Increased design limit from 20 to 40
+
+9/1/2021
+-   Improved battle performances
+
+2/1/2021
+-   Improved Auto Fleet updater
+-   New cards: "Favourite ship modules" and "Favourite spell"
+-   Explorers specialization
+
+20/12/2020
+-   Auto Prestige update
+-   New ship module: cyborgizer (Modders specialization)
+
+8/12/2020
+-   More researches
+-   More ship modules
+-   Balancement: higher enemies ship level
+-   2 Specialization
+
+13/11/2020
+-   Megastructure automation card
+-   Megastructure buff: from +30% max drones to +40%
+-   Fixed date format on battle screen
+
+12/11/2020
+-   Ui Fix
+-   Large css themes
+
+11/11/2020
+-   Ui fix. Tech prestige shop on firefox.
+
+06/11/2020
+-   Angular downgrade (memory leak)
+
+31/10/2020
+-   New card "Storage"
+-   New Prestige "More Storage", misc section
+
+25/10/2020
+-   "Extreme modding" card
+-   "Better prices scaling" card
+-   "Kill Streak: auto win" card
+-   Civilian Work auto sort 
+-   Fleet auto sort
+-   Fixed save problems
+-   Fixed problems with automation (time change)
+
+24/10/2020
+-   New automation: Auto Warp (requires card)
+-   Decreased exp shop "computing regeneration" bonus from 10% to 2%
+-   Fixed save not loading in some cases
+
+18/10/2020
+-   Experience shop update
+-   "Kill Streak: Speed Card" affects acceleration
+-   Price of first megastructure is 1e15
+-   New challenge "No Exp Multiplier"
+-   Fixed multiple "Production stopped" modals at the same time
+
+11/10/2020
+-   Added queue length options for space stations and infrastructure automation
+
+10/10/2020
+-   Less overwhelming start
+-   Ui improvements
+
+5/10/2020
+-   Fixed research not unlocking after completing challenges
+-   Fixed auto origin
+
+4/10/2020
+-   Infrastructure bonus stack additive
+-   Added "Stats" page
+-   Added technology info
+-   Reduced "More velocity and acceleration" exp shop bonus from 15% to 12%
+-   Added prestige info
+
+3/10/2020
+-   New challenge: Expanding Universe
+-   Increased "More velocity and acceleration" exp shop bonus from 10% to 15%
+-   Disabled text selection
+
+28/09/2020
+-   Fix "XS only" challenge not working
+
+27/09/2020
+-   Fix space stations prices not refreshing after prestige
+-   Added 1000 options on exp shop
+-   PlayFab
+
+26/09/2020
+-   Challenges
+-   More cards
+-   Mega Computing Center bonus decreased from 30% to 20%
+-   Automation unlock at level 2
+
+12/09/2020
+-   Megastructure
+-   Warps keyboard shortcuts (options section)
+
+11/09/2020
+-   Research boost notification options
+
+5/09/2020
+-   Districts percent info
+-   Buildings max buy
+-   Fleet updater max level
+-   New notifications options
+
+3/09/2020
+-   Buy menu on top
+
+2/09/2020
+-   Fixed issues with save
+
+29/08/2020
+-   Fixed black screen
+-   Auto Origin
+
+25/08/2020
+-   Auto 100%
+-   Increased stats of "Reactive Armour"
+-   Reduced armour% and shield% of "Coordinator" 
+
+24/08/2020
+-   Starter pack bonus decreased from 20% to 15%
+-   Increased building prices for replicators and nuke
+-   Increased components prices of drones
+-   Increase components gain from Enemies
+-   New research "Assimilation"; +100% Components from enemies, repeatable
+-   Cargo and Assistance Drone buff
+-   Cargo and Lab info on battle screen
+-   New Cards "Kill Streak: Speed" and "Kill Streak: Resources"
+-   Fixed spells not auto casting
+-   Space Station Warp: warp decreased to "1 + level/2" from "1 + level"
+
+23/08/2020
+-   Added Anti Missiles
+-   Updated warp spell description
+
+22/08/2020
+-   Prestige info page
+-   "Mod Warp" card
+-   "Space Station Warp" card
+-   Decreased exponential grow of space station price from 1.06 to 1.04
+-   Doubled technology gain multiplier of origins
+-   Space station page display "price/space" instead of "1e12 * space/price"
+-   "Research initiative" buff from +1% per research lab to +1.5%
+
+19/08/2020
+-   Unused mods are auto assigned to higher priority in orderly fashion
+-   Fixed issues with speed and acceleration
+-   After prestige worker page point to "Miner"
+
+18/08/2020
+-   Auto modding based on priorities
+-   Number formatting after 1e4 instead 1e3
+
+17/08/2020
+-   Optional priority one on full computing
+-   Improved module page
+-   Ui fixes
+-   More themes
+-   "Battle Warp" card
+-   "Level 20 Researches" card
+-   Two new researches
+-   Shipyard utilities
+
+16/08/2020
+-   Auto mod
+-   Auto departments
+-   Balancement: less experience and cards, buildings prices
+-   "More mod" card
+-   "More departments" card
+-   "Prestige multi doesn't decrease" card
+-   "Space Mining" card
+-   "Solar Energy" card
+
+14/08/2020
+-   Added "Auto save & refresh" as workaround for memory leaks
+-   Improved memory management
+-   Fixed "Advanced Space Stations" not unlocking
+-   Fixed "Battle ETA" in case of warping
+
+11/08/2020
+-   Fixed "Production table" not updating
+-   Fixed multiple origin at the same time
+-   Fixed number formatting
+
+05/08/2020
+-   Enemy rebalanced: decreased enemy levels, increase search and production requirements
+-   Space stations buff
+-   Exponential storage capacity
+-   Reduced damage reduction
+-   Naval capacity card
+-   Various fix
+
+28/07/2020
+-   Prestige bug fixed
+-   Added some module descriptions
+
+27/07/2020
+-   Fixed Fleet number on Fleet>Jobs
+-   Added save download
+-   Added csv report download
+
+26/07/2020
+-   "Drone production prestige" now act as described
+-   Ui fix
+-   "Disable small(2 sec) warp notifications". Increased from 1 sec to 2 sec
+-   Added tooltips to designs info, improved info.
+-   "Drones production prestige" fix
+
+25/07/2020
+-   New "old style" ui for workers. Cards ui can be re enabled on ui options.
+-   Enemies now equip more modules.
+-   Auto search will delete higher level search or enemy in case there is nothing to attack.
+-   Added various contextual infos and Automation Info section
+
+24/07/2020
+-   Space station completed notifications options
+-   Added "Better Space Stations" to exp shop
+-   Added "Auto Surrender"
+-   Threat balancement
+
+23/07/2020
+-   Auto search fix
+-   Battle stop  fix
+
+22/07/2020
+-   More info
+-   Space station buff
+-   Disabled megastructure research
+
+21/07/2020
+-   Warps notifications options
+-   Added info modals
+-   Fixed 100% civil work after prestige
+
+20/07/2020
+-   Eta fixed
+-   Added search time in search screen
+
+19/07/2020
+-   new researches
+-   info tab
+-   optimizations
+
+18/07/2020
+-   new ship modules "Tractor Beam" and "Communications Jammer"
+-   fixed battle threat
+
+14/07/2020
+-   fixed department prestige
+
+10/07/2020
+-   more acceleration
+
+09/07/2020
+-   fixed ship priority
+-   fixed number formatting
+-   fixed nuke
+
+08/07/2020
+-   fixed mod page
+-   fixed ship info on design page
+-   fixed css, nuke specialist limit and Production Department bonus
+-   fixed threat
+-   buff save
+-   some replacements to nuke, space stations, drones
+
+07/07/2020
+-   fixed/implemented nuke
+-   new card: Peacefully Efficiency
+-   space stations auto buyer
+-   rebalanced nuke and components
+-   added changelog
